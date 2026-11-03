@@ -1,0 +1,23 @@
+{
+  "name": "Grace Finance",
+  "short_name": "Grace Finance",
+  "description": "Personal income, spending, debt repayment and trading journal tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f3ed",
+  "theme_color": "#243b2d",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
